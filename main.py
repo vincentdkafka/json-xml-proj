@@ -66,7 +66,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.title("📝 Prompt Maker")
+st.title("📝 Prompt Formatter")
 st.caption("Make ChatGPT or Gemini understand your prompts more effectively. Easily clean your prompts and convert them into JSON or XML with style.")
 
 
