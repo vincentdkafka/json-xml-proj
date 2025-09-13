@@ -21,7 +21,7 @@ This tool takes your messy, unstructured text and converts it into **beautiful J
 3. Hit **Generate**.  
 4. Copy or download your clean structured prompt.
 
-[Live Demo]()
+<a href="https://prompt-formatter.onrender.com/" target="_blank">Live Demo</a>
 
 ---
 
